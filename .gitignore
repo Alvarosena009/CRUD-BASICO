@@ -1,0 +1,36 @@
+# Arquivos sensíveis
+.env
+*.env
+
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Banco de dados
+database/
+*.db
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dependências
+*.egg-info/
+dist/
+build/
